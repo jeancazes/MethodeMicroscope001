@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MethodeMicroscope001</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="Splash001Desc">Méthode Microscope proposé par</string>
+</resources>
